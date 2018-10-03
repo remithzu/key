@@ -2,8 +2,8 @@
 sublime_text_3_build_3176
 > * Added these lines into  /etc/hosts 
 
-127.0.0.1       www.sublimetext.com
-127.0.0.1       license.sublimehq.com
+127.0.0.1       www.sublimetext.com<br>
+127.0.0.1       license.sublimehq.com<br>
 
 > * Used the license key
 
